@@ -92,6 +92,7 @@ gotchaED_EXTERNAL_OBJECTS =
 
 gotchaED: CMakeFiles/gotchaED.dir/main.c.o
 gotchaED: CMakeFiles/gotchaED.dir/build.make
+gotchaED: /home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/gotcha-1.0.4-ijqtddyxcaouftr2elnqvzills77u4iw/lib/libgotcha.so
 gotchaED: CMakeFiles/gotchaED.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/flash/research_stuff/io_test_codes/gotchaED/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable gotchaED"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gotchaED.dir/link.txt --verbose=$(VERBOSE)

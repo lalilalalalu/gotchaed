@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/gotchaED.dir/main.c.o -o gotchaED 
+/usr/bin/cc CMakeFiles/gotchaED.dir/main.c.o -o gotchaED  -Wl,-rpath,/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/gotcha-1.0.4-ijqtddyxcaouftr2elnqvzills77u4iw/lib /home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/gotcha-1.0.4-ijqtddyxcaouftr2elnqvzills77u4iw/lib/libgotcha.so 

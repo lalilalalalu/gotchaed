@@ -74,18 +74,17 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/Compiler/XL-C-DetermineCompiler.cmake"
   "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/Compiler/XLClang-C-DetermineCompiler.cmake"
   "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
+  "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+  "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/FindPackageMessage.cmake"
   "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/Internal/FeatureTesting.cmake"
   "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/Platform/Linux-GNU-C.cmake"
   "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake"
   "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/Platform/Linux.cmake"
   "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/cmake-3.25.2-ds4o5bcc2hnmkksguyiq3skktnhhac3g/share/cmake-3.25/Modules/Platform/UnixPaths.cmake"
-  "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/gotcha-1.0.4-ijqtddyxcaouftr2elnqvzills77u4iw/lib/cmake/gotcha/gotcha-config-version.cmake"
-  "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/gotcha-1.0.4-ijqtddyxcaouftr2elnqvzills77u4iw/lib/cmake/gotcha/gotcha-config.cmake"
-  "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/gotcha-1.0.4-ijqtddyxcaouftr2elnqvzills77u4iw/lib/cmake/gotcha/gotcha-targets-relwithdebinfo.cmake"
-  "/home/flash/repos/spack/opt/spack/linux-ubuntu20.04-zen2/gcc-9.4.0/gotcha-1.0.4-ijqtddyxcaouftr2elnqvzills77u4iw/lib/cmake/gotcha/gotcha-targets.cmake"
   "/home/flash/research_stuff/io_test_codes/gotchaED/CMakeLists.txt"
   "CMakeFiles/3.25.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.2/CMakeSystem.cmake"
+  "/home/flash/research_stuff/io_test_codes/gotchaED/cmake/FindGotcha.cmake"
   )
 
 # The corresponding makefile is:

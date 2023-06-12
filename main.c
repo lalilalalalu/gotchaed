@@ -1,5 +1,5 @@
-#include "gotcha_types.h"
-#include "gotcha.h"
+#include "gotcha/gotcha_types.h"
+#include "gotcha/gotcha.h"
 #include <unistd.h>
 #include <stdio.h>
 #include <string.h>
